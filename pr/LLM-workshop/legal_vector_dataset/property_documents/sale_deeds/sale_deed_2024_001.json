@@ -1,0 +1,110 @@
+[
+    {
+        "doc_id": "sale_deed_2024_001",
+        "doc_type": "sale_deed",
+        "jurisdiction": "India",
+        "governing_law": [
+            "Transfer of Property Act 1882",
+            "Registration Act 1908"
+        ],
+        "clause_id": "clause_1",
+        "clause_title": "Property Description",
+        "clause_type": "property_details",
+        "text": "All that piece and parcel of land measuring 2000 sq ft situated at Survey No. 45, Village Madhapur, Serilingampally Mandal, Ranga Reddy District, bounded on the North by Plot No. 12, South by 30ft Road, East by Plot No. 14, and West by Plot No. 10.",
+        "keywords": [
+            "property description",
+            "survey no",
+            "boundaries",
+            "sq ft"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.4,
+        "enforceability_score": 0.98,
+        "court_interpreted": true,
+        "cross_reference_sections": [],
+        "metadata": {
+            "area_unit": "sq ft",
+            "area_value": 2000,
+            "property_type": "residential land"
+        },
+        "vector_ready": true
+    },
+    {
+        "doc_id": "sale_deed_2024_001",
+        "doc_type": "sale_deed",
+        "clause_id": "clause_2",
+        "clause_title": "Consideration",
+        "clause_type": "financial",
+        "text": "The Vendor agrees to sell and the Purchaser agrees to purchase the Schedule Property for a total consideration of INR 50,00,000 (Rupees Fifty Lakhs only). The receipt of which is hereby acknowledged by the Vendor through DD No. 123456 dated 01-05-2024.",
+        "keywords": [
+            "consideration",
+            "purchase price",
+            "payment",
+            "receipt"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.3,
+        "enforceability_score": 0.99,
+        "metadata": {
+            "currency": "INR",
+            "amount": 5000000
+        },
+        "vector_ready": true
+    },
+    {
+        "doc_id": "sale_deed_2024_001",
+        "doc_type": "sale_deed",
+        "clause_id": "clause_3",
+        "clause_title": "Transfer of Title and Possession",
+        "clause_type": "rights",
+        "text": "The Vendor hereby conveys, transfers and assigns absolutely to the Purchaser all his rights, title and interest in the Schedule Property together with peaceful and vacant possession.",
+        "keywords": [
+            "transfer of title",
+            "absolute assignment",
+            "vacant possession"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.6,
+        "enforceability_score": 0.95,
+        "vector_ready": true
+    },
+    {
+        "doc_id": "sale_deed_2024_001",
+        "doc_type": "sale_deed",
+        "clause_id": "clause_4",
+        "clause_title": "Indemnity",
+        "clause_type": "liability",
+        "text": "The Vendor hereby indemnifies and keeps indemnified the Purchaser from and against all losses, damages, costs, charges and expenses which the Purchaser may sustain or incur by reason of any defect in title, or any encumbrances, charges, liens or litigations concerning the Schedule Property.",
+        "keywords": [
+            "indemnity",
+            "defect in title",
+            "encumbrances",
+            "losses"
+        ],
+        "risk_level": "critical",
+        "risk_score": 0.85,
+        "enforceability_score": 0.92,
+        "cross_reference_sections": [
+            "TPA Section 55"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "sale_deed_2024_001",
+        "doc_type": "sale_deed",
+        "clause_id": "clause_5",
+        "clause_title": "Taxes, Rates and Cesses",
+        "clause_type": "obligations",
+        "text": "The Vendor has paid all taxes, cesses, power bills and water charges pertaining to the Schedule Property up to the date of execution of this Sale Deed. Hereinafter, the Purchaser shall be liable to pay all future taxes and charges.",
+        "keywords": [
+            "taxes",
+            "property tax",
+            "cesses",
+            "dues clearance"
+        ],
+        "risk_level": "low",
+        "risk_score": 0.2,
+        "enforceability_score": 0.96,
+        "vector_ready": true
+    }
+]

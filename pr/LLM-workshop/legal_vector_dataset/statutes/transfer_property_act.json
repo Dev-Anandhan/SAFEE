@@ -1,0 +1,240 @@
+[
+    {
+        "doc_id": "statute_tpa_1882",
+        "doc_type": "statute",
+        "jurisdiction": "India",
+        "governing_law": [
+            "Transfer of Property Act 1882"
+        ],
+        "clause_id": "section_5",
+        "clause_title": "Transfer of Property Defined",
+        "clause_type": "definitions",
+        "text": "Transfer of property means an act by which a living person conveys property, in present or in future, to one or more other living persons, or to himself and one or more other living persons. 'Living person' includes a company or association or body of individuals, whether incorporated or not.",
+        "keywords": [
+            "transfer",
+            "conveyance",
+            "property",
+            "living person"
+        ],
+        "risk_level": "low",
+        "risk_score": 0.1,
+        "enforceability_score": 0.95,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 6",
+            "Section 54"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_tpa_1882",
+        "doc_type": "statute",
+        "clause_id": "section_6",
+        "clause_title": "What May Be Transferred",
+        "clause_type": "rights",
+        "text": "Property of any kind may be transferred, except as otherwise provided by this Act or by any other law for the time being in force. Exceptions include: a chance of an heir-apparent succeeding to an estate, a mere right of re-entry, an easement apart from the dominant heritage, and a right to future maintenance.",
+        "keywords": [
+            "transferable",
+            "exceptions",
+            "restrictions",
+            "property rights"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.3,
+        "enforceability_score": 0.92,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 5",
+            "Section 10"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_tpa_1882",
+        "doc_type": "statute",
+        "clause_id": "section_10",
+        "clause_title": "Condition Restraining Alienation",
+        "clause_type": "compliance",
+        "text": "Where property is transferred subject to a condition or limitation absolutely restraining the transferee or any person claiming under him from parting with or disposing of his interest in the property, the condition or limitation is void.",
+        "keywords": [
+            "restraint",
+            "alienation",
+            "void condition",
+            "absolute restraint"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.7,
+        "enforceability_score": 0.88,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 6",
+            "Section 11"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_tpa_1882",
+        "doc_type": "statute",
+        "clause_id": "section_52",
+        "clause_title": "Transfer of Property Pending Suit (Lis Pendens)",
+        "clause_type": "compliance",
+        "text": "During the pendency of any suit or proceeding in which any right to immovable property is directly and specifically in question, the property cannot be transferred or otherwise dealt with by any party to the suit so as to affect the rights of any other party thereto under any decree or order which may be made therein.",
+        "keywords": [
+            "lis pendens",
+            "pending suit",
+            "immovable property",
+            "court order"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.8,
+        "enforceability_score": 0.95,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 54",
+            "Code of Civil Procedure Section 52"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_tpa_1882",
+        "doc_type": "statute",
+        "clause_id": "section_54",
+        "clause_title": "Sale Defined",
+        "clause_type": "definitions",
+        "text": "Sale is a transfer of ownership in exchange for a price paid or promised or part-paid and part-promised. A sale of tangible immovable property of the value of one hundred rupees and upwards, or in the case of a reversion or other intangible thing, can be made only by a registered instrument.",
+        "keywords": [
+            "sale",
+            "ownership",
+            "price",
+            "registered instrument",
+            "immovable property"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.4,
+        "enforceability_score": 0.97,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 5",
+            "Registration Act Section 17"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_tpa_1882",
+        "doc_type": "statute",
+        "clause_id": "section_55",
+        "clause_title": "Rights and Liabilities of Buyer and Seller",
+        "clause_type": "rights",
+        "text": "The seller is bound to disclose to the buyer any material defect in the property or in the seller's title thereto of which the seller is and the buyer is not aware. The seller shall produce to the buyer all documents of title relating to the property which are in the seller's possession or power.",
+        "keywords": [
+            "disclosure",
+            "material defect",
+            "title documents",
+            "seller obligation"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.6,
+        "enforceability_score": 0.93,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 54",
+            "Section 57"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_tpa_1882",
+        "doc_type": "statute",
+        "clause_id": "section_58",
+        "clause_title": "Mortgage Defined",
+        "clause_type": "definitions",
+        "text": "A mortgage is the transfer of an interest in specific immoveable property for the purpose of securing the payment of money advanced or to be advanced by way of loan, an existing or future debt, or the performance of an engagement which may give rise to a pecuniary liability.",
+        "keywords": [
+            "mortgage",
+            "security",
+            "loan",
+            "immovable property",
+            "debt"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.7,
+        "enforceability_score": 0.96,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 59",
+            "Section 60"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_tpa_1882",
+        "doc_type": "statute",
+        "clause_id": "section_105",
+        "clause_title": "Lease Defined",
+        "clause_type": "definitions",
+        "text": "A lease of immoveable property is a transfer of a right to enjoy such property, made for a certain time, express or implied, or in perpetuity, in consideration of a price paid or promised, or of money, a share of crops, service or any other thing of value, to be rendered periodically or on specified occasions to the transferor by the transferee.",
+        "keywords": [
+            "lease",
+            "rent",
+            "tenancy",
+            "immovable property",
+            "periodic payment"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.4,
+        "enforceability_score": 0.94,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 106",
+            "Section 108"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_tpa_1882",
+        "doc_type": "statute",
+        "clause_id": "section_106",
+        "clause_title": "Duration of Certain Leases",
+        "clause_type": "obligations",
+        "text": "In the absence of a contract or local law or usage to the contrary, a lease of immoveable property for agricultural or manufacturing purposes shall be deemed to be a lease from year to year. A lease of immoveable property for any other purpose shall be deemed to be a lease from month to month, terminable on the part of either lessor or lessee by fifteen days' notice.",
+        "keywords": [
+            "lease duration",
+            "notice period",
+            "month to month",
+            "termination"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.5,
+        "enforceability_score": 0.90,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 105",
+            "Section 111"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_tpa_1882",
+        "doc_type": "statute",
+        "clause_id": "section_111",
+        "clause_title": "Determination of Lease",
+        "clause_type": "termination",
+        "text": "A lease of immoveable property determines by efflux of the time limited thereby, where the time is limited; by happening of a specified event; by the interest of the lessor in the property ceasing; by merger; by express surrender; by implied surrender; by forfeiture; or on the expiration of a notice to quit.",
+        "keywords": [
+            "lease termination",
+            "forfeiture",
+            "surrender",
+            "notice to quit"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.6,
+        "enforceability_score": 0.91,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 105",
+            "Section 106",
+            "Section 112"
+        ],
+        "vector_ready": true
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "doc_id": "lease_2023_101",
+        "doc_type": "lease_agreement",
+        "jurisdiction": "India",
+        "governing_law": [
+            "Transfer of Property Act 1882"
+        ],
+        "clause_id": "clause_1",
+        "clause_title": "Term of Lease",
+        "clause_type": "obligations",
+        "text": "The term of this Lease shall be for a period of 11 (eleven) months commencing from 01-June-2023 and ending on 30-April-2024, subject to renewal upon mutual written agreement.",
+        "keywords": [
+            "lease term",
+            "11 months",
+            "renewal",
+            "commencement date"
+        ],
+        "risk_level": "low",
+        "risk_score": 0.1,
+        "enforceability_score": 0.98,
+        "metadata": {
+            "duration_months": 11
+        },
+        "vector_ready": true
+    },
+    {
+        "doc_id": "lease_2023_101",
+        "doc_type": "lease_agreement",
+        "clause_id": "clause_2",
+        "clause_title": "Rent",
+        "clause_type": "financial",
+        "text": "The Lessee shall pay a monthly rent of INR 25,000 (Rupees Twenty Five Thousand only). The rent shall be paid on or before the 5th day of every calendar month via bank transfer to the Lessor's designated account.",
+        "keywords": [
+            "rent",
+            "monthly payment",
+            "due date",
+            "bank transfer"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.3,
+        "enforceability_score": 0.99,
+        "vector_ready": true
+    },
+    {
+        "doc_id": "lease_2023_101",
+        "doc_type": "lease_agreement",
+        "clause_id": "clause_3",
+        "clause_title": "Security Deposit",
+        "clause_type": "financial",
+        "text": "The Lessee has paid an interest-free refundable Security Deposit of INR 1,00,000 (Rupees One Lakh only). This deposit shall be refunded upon vacating the premises, subject to deductions for unpaid rent or damages beyond normal wear and tear.",
+        "keywords": [
+            "security deposit",
+            "refundable",
+            "deductions",
+            "damages"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.6,
+        "enforceability_score": 0.95,
+        "vector_ready": true
+    },
+    {
+        "doc_id": "lease_2023_101",
+        "doc_type": "lease_agreement",
+        "clause_id": "clause_4",
+        "clause_title": "Maintenance and Repairs",
+        "clause_type": "obligations",
+        "text": "The Lessee shall keep the interior of the Demised Premises in good and tenantable repair. Major structural repairs shall be the responsibility of the Lessor.",
+        "keywords": [
+            "maintenance",
+            "tenantable repair",
+            "structural repairs",
+            "lessee obligation"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.4,
+        "enforceability_score": 0.90,
+        "vector_ready": true
+    },
+    {
+        "doc_id": "lease_2023_101",
+        "doc_type": "lease_agreement",
+        "clause_id": "clause_5",
+        "clause_title": "Termination and Notice Period",
+        "clause_type": "termination",
+        "text": "Either party may terminate this Lease before the expiry of the Term by giving a 2 (two) months prior written notice. If the Lessee vacates without notice, the security deposit shall be forfeited to the extent of notice period rent.",
+        "keywords": [
+            "termination",
+            "notice period",
+            "early termination",
+            "forfeiture"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.7,
+        "enforceability_score": 0.92,
+        "cross_reference_sections": [
+            "TPA Section 106"
+        ],
+        "vector_ready": true
+    }
+]

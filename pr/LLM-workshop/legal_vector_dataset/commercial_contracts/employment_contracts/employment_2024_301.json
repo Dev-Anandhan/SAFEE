@@ -1,0 +1,103 @@
+[
+    {
+        "doc_id": "employment_2024_301",
+        "doc_type": "employment_contract",
+        "jurisdiction": "India",
+        "governing_law": [
+            "Indian Contract Act 1872"
+        ],
+        "clause_id": "clause_1",
+        "clause_title": "Position and Duties",
+        "clause_type": "obligations",
+        "text": "The Employee is appointed to the position of 'Senior Software Engineer'. The Employee shall devote their full business time, skill, and attention to the performance of duties assigned by the Company from time to time.",
+        "keywords": [
+            "position",
+            "duties",
+            "full time",
+            "job role"
+        ],
+        "risk_level": "low",
+        "risk_score": 0.1,
+        "enforceability_score": 0.95,
+        "vector_ready": true
+    },
+    {
+        "doc_id": "employment_2024_301",
+        "doc_type": "employment_contract",
+        "clause_id": "clause_2",
+        "clause_title": "Remuneration",
+        "clause_type": "financial",
+        "text": "The Employee's Total Cost to Company (CTC) shall be INR 30,00,000 per annum, subject to applicable statutory deductions including TDS, PF, and Professional Tax. Salary will be paid monthly in arrears.",
+        "keywords": [
+            "CTC",
+            "salary",
+            "statutory deductions",
+            "remuneration"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.3,
+        "enforceability_score": 0.99,
+        "metadata": {
+            "salary_lpa": 30
+        },
+        "vector_ready": true
+    },
+    {
+        "doc_id": "employment_2024_301",
+        "doc_type": "employment_contract",
+        "clause_id": "clause_3",
+        "clause_title": "Confidentiality",
+        "clause_type": "compliance",
+        "text": "The Employee shall not, during the term of employment or thereafter, disclose any Confidential Information, trade secrets, customer lists, or technical data of the Company to any third party without prior written consent.",
+        "keywords": [
+            "confidentiality",
+            "NDA",
+            "trade secrets",
+            "disclosure"
+        ],
+        "risk_level": "critical",
+        "risk_score": 0.85,
+        "enforceability_score": 0.94,
+        "vector_ready": true
+    },
+    {
+        "doc_id": "employment_2024_301",
+        "doc_type": "employment_contract",
+        "clause_id": "clause_4",
+        "clause_title": "Non-Compete and Non-Solicit",
+        "clause_type": "compliance",
+        "text": "For a period of 12 months post-termination, the Employee shall not directly or indirectly engage in a business that competes with the Company, nor solicit any employees, clients, or vendors of the Company.",
+        "keywords": [
+            "non-compete",
+            "non-solicit",
+            "post-termination",
+            "restrictive covenant"
+        ],
+        "risk_level": "critical",
+        "risk_score": 0.9,
+        "enforceability_score": 0.70,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Contract Act Section 27"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "employment_2024_301",
+        "doc_type": "employment_contract",
+        "clause_id": "clause_5",
+        "clause_title": "Termination",
+        "clause_type": "termination",
+        "text": "Employment may be terminated by either party giving 60 days' written notice, or salary in lieu thereof. The Company may terminate employment immediately without notice in cases of gross misconduct, fraud, or breach of confidentiality.",
+        "keywords": [
+            "termination",
+            "notice period",
+            "cause",
+            "gross misconduct"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.75,
+        "enforceability_score": 0.95,
+        "vector_ready": true
+    }
+]

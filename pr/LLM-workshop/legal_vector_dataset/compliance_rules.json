@@ -1,0 +1,256 @@
+[
+    {
+        "id": "SALE_DEED_IMMOVABLE_PROPERTY",
+        "purpose": "Transfer of ownership of immovable property",
+        "document_type": "Sale Deed",
+        "applicable_laws": [
+            "Transfer of Property Act, 1882",
+            "Registration Act, 1908",
+            "Indian Stamp Act, 1899",
+            "Indian Contract Act, 1872",
+            "Income-tax Act, 1961"
+        ],
+        "mandatory_clauses": [
+            "Full details of seller and buyer",
+            "Clear property description (survey number, extent, boundaries)",
+            "Consideration amount",
+            "Mode of payment",
+            "Transfer of ownership clause",
+            "Possession clause",
+            "Title chain recital",
+            "Stamp duty details",
+            "Registration details",
+            "Signatures of both parties",
+            "Witness signatures"
+        ],
+        "critical_violations": [
+            "Non-registration of compulsory instrument",
+            "Insufficient stamp duty",
+            "Under-reporting of consideration",
+            "Missing seller signature"
+        ],
+        "legal_consequences": [
+            "Document inadmissible in evidence",
+            "Ownership not legally transferred",
+            "Stamp penalty and impounding",
+            "Tax scrutiny risk"
+        ],
+        "risk_weight": 40,
+        "remediation": [
+            "Register within statutory period",
+            "Pay deficit stamp duty with penalty",
+            "Ensure both parties execute document",
+            "Verify guideline value compliance"
+        ]
+    },
+    {
+        "id": "LEASE_AGREEMENT_LONG_TERM",
+        "purpose": "Lease of property exceeding one year",
+        "document_type": "Lease Agreement",
+        "applicable_laws": [
+            "Transfer of Property Act, 1882",
+            "Registration Act, 1908",
+            "Indian Stamp Act, 1899"
+        ],
+        "mandatory_clauses": [
+            "Lease term",
+            "Rent and escalation",
+            "Security deposit",
+            "Termination clause",
+            "Maintenance obligations",
+            "Registration if term > 1 year"
+        ],
+        "critical_violations": [
+            "Unregistered lease beyond statutory threshold",
+            "Missing rent clause",
+            "No termination clause"
+        ],
+        "legal_consequences": [
+            "Lease unenforceable beyond limited period",
+            "Eviction complications"
+        ],
+        "risk_weight": 30,
+        "remediation": [
+            "Register lease",
+            "Clearly define escalation and lock-in",
+            "Specify notice period"
+        ]
+    },
+    {
+        "id": "GIFT_DEED_IMMOVABLE",
+        "purpose": "Transfer of property without consideration",
+        "document_type": "Gift Deed",
+        "applicable_laws": [
+            "Transfer of Property Act, 1882",
+            "Registration Act, 1908",
+            "Indian Stamp Act, 1899"
+        ],
+        "mandatory_clauses": [
+            "Voluntary transfer statement",
+            "Acceptance by donee",
+            "Property details",
+            "Registration",
+            "Stamp duty"
+        ],
+        "critical_violations": [
+            "Non-registration",
+            "No acceptance clause",
+            "Ambiguous property description"
+        ],
+        "legal_consequences": [
+            "Gift void",
+            "Title challenge risk"
+        ],
+        "risk_weight": 35,
+        "remediation": [
+            "Ensure acceptance documented",
+            "Register deed",
+            "Clarify asset boundaries"
+        ]
+    },
+    {
+        "id": "PARTNERSHIP_AGREEMENT",
+        "purpose": "Formation of partnership firm",
+        "document_type": "Partnership Deed",
+        "applicable_laws": [
+            "Indian Partnership Act, 1932"
+        ],
+        "mandatory_clauses": [
+            "Name of firm",
+            "Capital contribution",
+            "Profit-sharing ratio",
+            "Duties and powers of partners",
+            "Dissolution clause"
+        ],
+        "critical_violations": [
+            "No profit-sharing ratio",
+            "No dissolution clause",
+            "Unregistered firm (litigation limitation)"
+        ],
+        "legal_consequences": [
+            "Inability to sue third parties",
+            "Internal disputes"
+        ],
+        "risk_weight": 20,
+        "remediation": [
+            "Register firm",
+            "Define roles clearly",
+            "Include arbitration clause"
+        ]
+    },
+    {
+        "id": "COMPANY_MOA_AOA",
+        "purpose": "Company incorporation and governance",
+        "document_type": "MOA / AOA",
+        "applicable_laws": [
+            "Companies Act, 2013"
+        ],
+        "mandatory_clauses": [
+            "Name clause",
+            "Registered office clause",
+            "Object clause",
+            "Liability clause",
+            "Capital clause",
+            "Subscriber clause"
+        ],
+        "critical_violations": [
+            "Missing object clause",
+            "Ultra vires activities",
+            "Improper board authorization"
+        ],
+        "legal_consequences": [
+            "Corporate penalties",
+            "Invalid corporate acts"
+        ],
+        "risk_weight": 35,
+        "remediation": [
+            "Amend MOA via special resolution",
+            "File ROC compliance forms"
+        ]
+    },
+    {
+        "id": "EMPLOYMENT_AGREEMENT",
+        "purpose": "Employment relationship documentation",
+        "document_type": "Employment Contract",
+        "applicable_laws": [
+            "Indian Contract Act, 1872",
+            "Industrial Disputes Act, 1947",
+            "Payment of Wages Act, 1936"
+        ],
+        "mandatory_clauses": [
+            "Role and duties",
+            "Salary and benefits",
+            "Termination clause",
+            "Notice period",
+            "Confidentiality"
+        ],
+        "critical_violations": [
+            "Unlawful non-compete",
+            "Wage non-compliance",
+            "No termination clarity"
+        ],
+        "legal_consequences": [
+            "Labour dispute litigation",
+            "Compensation liability"
+        ],
+        "risk_weight": 25,
+        "remediation": [
+            "Align non-compete with reasonableness",
+            "Ensure statutory wage compliance"
+        ]
+    },
+    {
+        "id": "DIGITAL_E_AGREEMENT",
+        "purpose": "Electronic contract execution",
+        "document_type": "E-Agreement",
+        "applicable_laws": [
+            "Information Technology Act, 2000",
+            "Indian Contract Act, 1872"
+        ],
+        "mandatory_clauses": [
+            "Digital signature certificate reference",
+            "Electronic consent record",
+            "Audit trail"
+        ],
+        "critical_violations": [
+            "No digital authentication",
+            "Forged electronic signature"
+        ],
+        "legal_consequences": [
+            "Execution challenge",
+            "Evidence admissibility risk"
+        ],
+        "risk_weight": 30,
+        "remediation": [
+            "Use certified DSC",
+            "Maintain timestamp logs"
+        ]
+    },
+    {
+        "id": "WILL_TESTAMENT",
+        "purpose": "Distribution of estate after death",
+        "document_type": "Will",
+        "applicable_laws": [
+            "Indian Succession Act, 1925"
+        ],
+        "mandatory_clauses": [
+            "Signature of testator",
+            "Two witness signatures",
+            "Clear beneficiary identification"
+        ],
+        "critical_violations": [
+            "No witnesses",
+            "Undue influence",
+            "Ambiguous asset description"
+        ],
+        "legal_consequences": [
+            "Probate rejection",
+            "Family litigation"
+        ],
+        "risk_weight": 30,
+        "remediation": [
+            "Ensure attestation by two witnesses",
+            "Clearly list assets"
+        ]
+    }
+]

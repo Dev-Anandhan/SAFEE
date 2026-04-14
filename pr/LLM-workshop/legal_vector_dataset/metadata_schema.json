@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Legal Document Clause Schema",
+  "type": "object",
+  "required": ["doc_id", "doc_type", "clause_id", "clause_title", "clause_type", "text"],
+  "properties": {
+    "doc_id":           { "type": "string", "description": "Unique document identifier" },
+    "doc_type":         { "type": "string", "enum": ["statute", "sale_deed", "lease_agreement", "mortgage_deed", "employment_contract", "partnership_deed", "agreement_to_sell"] },
+    "jurisdiction":     { "type": "string", "default": "India" },
+    "governing_law":    { "type": "array", "items": { "type": "string" } },
+    "clause_id":        { "type": "string" },
+    "clause_title":     { "type": "string" },
+    "clause_type":      { "type": "string", "enum": ["property_details", "financial", "liability", "obligations", "termination", "arbitration", "compliance", "statutory", "penalty", "rights", "definitions"] },
+    "text":             { "type": "string" },
+    "keywords":         { "type": "array", "items": { "type": "string" } },
+    "risk_level":       { "type": "string", "enum": ["low", "medium", "high", "critical"] },
+    "risk_score":       { "type": "number", "minimum": 0, "maximum": 1 },
+    "enforceability_score": { "type": "number", "minimum": 0, "maximum": 1 },
+    "missing_clause_flag":  { "type": "boolean" },
+    "compliance_flags":     { "type": "array", "items": { "type": "string" } },
+    "court_interpreted":    { "type": "boolean" },
+    "cross_reference_sections": { "type": "array", "items": { "type": "string" } },
+    "vector_ready":     { "type": "boolean", "default": true },
+    "metadata":         { "type": "object", "additionalProperties": true }
+  }
+}

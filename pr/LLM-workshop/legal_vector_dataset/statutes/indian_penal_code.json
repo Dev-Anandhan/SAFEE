@@ -1,0 +1,192 @@
+[
+    {
+        "doc_id": "statute_ipc_1860",
+        "doc_type": "statute",
+        "jurisdiction": "India",
+        "governing_law": [
+            "Indian Penal Code 1860"
+        ],
+        "clause_id": "section_378",
+        "clause_title": "Theft",
+        "clause_type": "definitions",
+        "text": "Whoever, intending to take dishonestly any moveable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft. Explanation: A thing so long as it is attached to the earth, not being moveable property, is not the subject of theft; but it becomes capable of being the subject of theft as soon as it is severed from the earth.",
+        "keywords": [
+            "theft",
+            "dishonest",
+            "moveable property",
+            "possession",
+            "consent"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.8,
+        "enforceability_score": 0.97,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 379",
+            "Section 380"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_ipc_1860",
+        "doc_type": "statute",
+        "clause_id": "section_403",
+        "clause_title": "Dishonest Misappropriation of Property",
+        "clause_type": "penalty",
+        "text": "Whoever dishonestly misappropriates or converts to his own use any moveable property, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+        "keywords": [
+            "misappropriation",
+            "dishonest",
+            "moveable property",
+            "imprisonment"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.8,
+        "enforceability_score": 0.96,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 404",
+            "Section 405"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_ipc_1860",
+        "doc_type": "statute",
+        "clause_id": "section_405",
+        "clause_title": "Criminal Breach of Trust",
+        "clause_type": "definitions",
+        "text": "Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, commits criminal breach of trust.",
+        "keywords": [
+            "breach of trust",
+            "entrusted property",
+            "misappropriation",
+            "fiduciary"
+        ],
+        "risk_level": "critical",
+        "risk_score": 0.9,
+        "enforceability_score": 0.97,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 406",
+            "Section 409"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_ipc_1860",
+        "doc_type": "statute",
+        "clause_id": "section_415",
+        "clause_title": "Cheating",
+        "clause_type": "definitions",
+        "text": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces that person to do or omit to do anything which he would not do or omit if he were not so deceived, is said to cheat.",
+        "keywords": [
+            "cheating",
+            "deception",
+            "fraud",
+            "inducement",
+            "property delivery"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.85,
+        "enforceability_score": 0.96,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 416",
+            "Section 420"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_ipc_1860",
+        "doc_type": "statute",
+        "clause_id": "section_420",
+        "clause_title": "Cheating and Dishonestly Inducing Delivery of Property",
+        "clause_type": "penalty",
+        "text": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter, or destroy the whole or any part of a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+        "keywords": [
+            "section 420",
+            "cheating",
+            "property delivery",
+            "imprisonment",
+            "fine"
+        ],
+        "risk_level": "critical",
+        "risk_score": 0.9,
+        "enforceability_score": 0.97,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 415",
+            "Section 421"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_ipc_1860",
+        "doc_type": "statute",
+        "clause_id": "section_463",
+        "clause_title": "Forgery",
+        "clause_type": "definitions",
+        "text": "Whoever makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, commits forgery.",
+        "keywords": [
+            "forgery",
+            "false document",
+            "electronic record",
+            "fraud"
+        ],
+        "risk_level": "critical",
+        "risk_score": 0.9,
+        "enforceability_score": 0.97,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 464",
+            "Section 468"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_ipc_1860",
+        "doc_type": "statute",
+        "clause_id": "section_499",
+        "clause_title": "Defamation",
+        "clause_type": "definitions",
+        "text": "Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said to defame that person.",
+        "keywords": [
+            "defamation",
+            "reputation",
+            "imputation",
+            "spoken words",
+            "publication"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.6,
+        "enforceability_score": 0.88,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 500"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_ipc_1860",
+        "doc_type": "statute",
+        "clause_id": "section_34",
+        "clause_title": "Acts Done by Several Persons in Furtherance of Common Intention",
+        "clause_type": "statutory",
+        "text": "When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone.",
+        "keywords": [
+            "common intention",
+            "joint liability",
+            "criminal act",
+            "several persons"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.7,
+        "enforceability_score": 0.96,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 149"
+        ],
+        "vector_ready": true
+    }
+]

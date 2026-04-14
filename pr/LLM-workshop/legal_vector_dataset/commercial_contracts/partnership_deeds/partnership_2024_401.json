@@ -1,0 +1,75 @@
+[
+    {
+        "doc_id": "partnership_2024_401",
+        "doc_type": "partnership_deed",
+        "jurisdiction": "India",
+        "governing_law": [
+            "Indian Partnership Act 1932"
+        ],
+        "clause_id": "clause_1",
+        "clause_title": "Name and Place of Business",
+        "clause_type": "definitions",
+        "text": "The business of the partnership shall be carried on under the name and style of 'M/S Tech Innovators' and the principal place of business shall be at Koramangala, Bengaluru, Karnataka.",
+        "keywords": [
+            "partnership name",
+            "place of business",
+            "firm"
+        ],
+        "risk_level": "low",
+        "risk_score": 0.1,
+        "enforceability_score": 0.98,
+        "vector_ready": true
+    },
+    {
+        "doc_id": "partnership_2024_401",
+        "doc_type": "partnership_deed",
+        "clause_id": "clause_2",
+        "clause_title": "Capital Contribution",
+        "clause_type": "financial",
+        "text": "The initial capital of the firm shall be INR 10,00,000, contributed equally by Partner 1 and Partner 2 (INR 5,00,000 each). Further capital may be introduced by mutual consent.",
+        "keywords": [
+            "capital contribution",
+            "initial capital",
+            "partners share"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.3,
+        "enforceability_score": 0.99,
+        "vector_ready": true
+    },
+    {
+        "doc_id": "partnership_2024_401",
+        "doc_type": "partnership_deed",
+        "clause_id": "clause_3",
+        "clause_title": "Profit and Loss Sharing Ratio",
+        "clause_type": "financial",
+        "text": "The net profits or losses of the partnership business shall be divided between Partner 1 and Partner 2 in the ratio of 50:50.",
+        "keywords": [
+            "profit sharing",
+            "loss sharing",
+            "ratio",
+            "50:50"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.6,
+        "enforceability_score": 0.99,
+        "vector_ready": true
+    },
+    {
+        "doc_id": "partnership_2024_401",
+        "doc_type": "partnership_deed",
+        "clause_id": "clause_4",
+        "clause_title": "Arbitration",
+        "clause_type": "arbitration",
+        "text": "Any dispute, difference or claim arising out of or in connection with this deed, including dissolution of firm, shall be settled by arbitration in accordance with the Arbitration and Conciliation Act, 1996. The seat of arbitration shall be Bengaluru.",
+        "keywords": [
+            "arbitration",
+            "dispute resolution",
+            "seat of arbitration"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.4,
+        "enforceability_score": 0.95,
+        "vector_ready": true
+    }
+]

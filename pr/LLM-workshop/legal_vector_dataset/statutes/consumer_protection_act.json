@@ -1,0 +1,143 @@
+[
+    {
+        "doc_id": "statute_cpa_2019",
+        "doc_type": "statute",
+        "jurisdiction": "India",
+        "governing_law": [
+            "Consumer Protection Act 2019"
+        ],
+        "clause_id": "section_2_7",
+        "clause_title": "Consumer Defined",
+        "clause_type": "definitions",
+        "text": "Consumer means any person who buys any goods for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment and includes any user of such goods other than the person who buys such goods when such use is made with the approval of such person. It does not include a person who obtains such goods for resale or for any commercial purpose.",
+        "keywords": [
+            "consumer",
+            "buyer",
+            "goods",
+            "consideration",
+            "resale exclusion"
+        ],
+        "risk_level": "low",
+        "risk_score": 0.2,
+        "enforceability_score": 0.95,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 2(1)",
+            "Section 35"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_cpa_2019",
+        "doc_type": "statute",
+        "clause_id": "section_2_42",
+        "clause_title": "Unfair Trade Practice Defined",
+        "clause_type": "definitions",
+        "text": "Unfair trade practice means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice including making a false or misleading representation, false advertisement, or offering gifts or prizes with the intention of not providing them.",
+        "keywords": [
+            "unfair trade practice",
+            "deceptive practice",
+            "false advertisement",
+            "misleading"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.7,
+        "enforceability_score": 0.93,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 18"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_cpa_2019",
+        "doc_type": "statute",
+        "clause_id": "section_35",
+        "clause_title": "Jurisdiction of District Commission",
+        "clause_type": "statutory",
+        "text": "The District Commission shall have jurisdiction to entertain complaints where the value of the goods or services paid as consideration does not exceed one crore rupees. Every complaint shall be filed within the jurisdiction in which the opposite party resides or carries on business or where the cause of action arises.",
+        "keywords": [
+            "district commission",
+            "jurisdiction",
+            "one crore",
+            "complaint filing"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.3,
+        "enforceability_score": 0.92,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 34",
+            "Section 47"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_cpa_2019",
+        "doc_type": "statute",
+        "clause_id": "section_39",
+        "clause_title": "Procedure Applicable to District Commission",
+        "clause_type": "obligations",
+        "text": "On receipt of a complaint, the District Commission shall refer the complaint to the opposite party and require them to give their version of the case within thirty days. The District Commission shall proceed to settle the consumer dispute on the basis of evidence brought before it. If the opposite party does not appear despite service, the Commission may proceed ex parte.",
+        "keywords": [
+            "complaint procedure",
+            "thirty days",
+            "ex parte",
+            "consumer dispute"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.4,
+        "enforceability_score": 0.90,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 35",
+            "Section 40"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_cpa_2019",
+        "doc_type": "statute",
+        "clause_id": "section_18",
+        "clause_title": "Central Consumer Protection Authority",
+        "clause_type": "statutory",
+        "text": "The Central Government shall, by notification, establish a body known as the Central Consumer Protection Authority (CCPA) to regulate matters relating to violation of rights of consumers, unfair trade practices, and misleading advertisements. The CCPA may inquire into violations and impose penalties.",
+        "keywords": [
+            "CCPA",
+            "consumer protection authority",
+            "regulation",
+            "penalties"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.5,
+        "enforceability_score": 0.93,
+        "court_interpreted": false,
+        "cross_reference_sections": [
+            "Section 2(42)"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_cpa_2019",
+        "doc_type": "statute",
+        "clause_id": "section_87",
+        "clause_title": "Product Liability",
+        "clause_type": "liability",
+        "text": "A product liability action may be brought by a complainant against a product manufacturer, product service provider, or product seller for any harm caused to him on account of a defective product. The manufacturer shall be liable if the product contains a manufacturing defect, is defective in design, or if there is a deviation from manufacturing specifications.",
+        "keywords": [
+            "product liability",
+            "manufacturing defect",
+            "defective design",
+            "harm"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.8,
+        "enforceability_score": 0.94,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 84",
+            "Section 85"
+        ],
+        "vector_ready": true
+    }
+]

@@ -1,0 +1,180 @@
+[
+    {
+        "doc_id": "statute_ra_1908",
+        "doc_type": "statute",
+        "jurisdiction": "India",
+        "governing_law": [
+            "Registration Act 1908"
+        ],
+        "clause_id": "section_17",
+        "clause_title": "Documents of Which Registration Is Compulsory",
+        "clause_type": "compliance",
+        "text": "The following documents shall be registered: instruments of gift of immovable property; other non-testamentary instruments which purport or operate to create, declare, assign, limit or extinguish any right, title or interest to or in immovable property; non-testamentary instruments which acknowledge the receipt or payment of any consideration on account of the creation, declaration, assignment, limitation or extinction of any such right, title or interest.",
+        "keywords": [
+            "compulsory registration",
+            "immovable property",
+            "gift deed",
+            "title transfer"
+        ],
+        "risk_level": "critical",
+        "risk_score": 0.9,
+        "enforceability_score": 0.98,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 18",
+            "TPA Section 54"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_ra_1908",
+        "doc_type": "statute",
+        "clause_id": "section_18",
+        "clause_title": "Documents of Which Registration Is Optional",
+        "clause_type": "compliance",
+        "text": "Any of the following documents may be registered: instruments (other than instruments of gift and wills) which purport or operate to create, declare, assign, limit or extinguish any right, title or interest to or in movable property; instruments acknowledging the receipt or payment of any consideration for such instruments; leases of immovable property for any term not exceeding one year.",
+        "keywords": [
+            "optional registration",
+            "movable property",
+            "short lease"
+        ],
+        "risk_level": "low",
+        "risk_score": 0.2,
+        "enforceability_score": 0.85,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 17"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_ra_1908",
+        "doc_type": "statute",
+        "clause_id": "section_23",
+        "clause_title": "Time for Presenting Documents",
+        "clause_type": "compliance",
+        "text": "No document other than a will shall be accepted for registration unless presented for that purpose to the proper officer within four months from the date of its execution. If executed by several persons at different times, within four months from the date of each execution.",
+        "keywords": [
+            "registration deadline",
+            "four months",
+            "execution date"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.7,
+        "enforceability_score": 0.95,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 25"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_ra_1908",
+        "doc_type": "statute",
+        "clause_id": "section_32",
+        "clause_title": "Persons to Present Documents for Registration",
+        "clause_type": "obligations",
+        "text": "Except in the cases mentioned in Sections 31, 88, and 89, every document to be registered shall be presented at the proper registration office by some person executing or claiming under the same, or by the representative or assign of such person, or by the agent of such person duly authorised by power-of-attorney.",
+        "keywords": [
+            "presentation",
+            "registration office",
+            "power of attorney",
+            "authorised agent"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.4,
+        "enforceability_score": 0.90,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 33"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_ra_1908",
+        "doc_type": "statute",
+        "clause_id": "section_47",
+        "clause_title": "Time from Which Registered Document Operates",
+        "clause_type": "statutory",
+        "text": "A registered document shall operate from the time from which it would have commenced to operate if no registration thereof had been required or made, and not from the time of its registration.",
+        "keywords": [
+            "operative date",
+            "retrospective effect",
+            "registration date"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.4,
+        "enforceability_score": 0.93,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 17",
+            "Section 49"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_ra_1908",
+        "doc_type": "statute",
+        "clause_id": "section_49",
+        "clause_title": "Effect of Non-Registration of Documents Required to Be Registered",
+        "clause_type": "penalty",
+        "text": "No document required by Section 17 to be registered shall affect any immovable property comprised therein, or confer any power to adopt, or be received as evidence of any transaction affecting such property or conferring such power, unless it has been registered.",
+        "keywords": [
+            "non-registration",
+            "inadmissible evidence",
+            "void effect",
+            "immovable property"
+        ],
+        "risk_level": "critical",
+        "risk_score": 0.95,
+        "enforceability_score": 0.98,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 17"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_ra_1908",
+        "doc_type": "statute",
+        "clause_id": "section_34",
+        "clause_title": "Enquiry Before Registration by Registering Officer",
+        "clause_type": "compliance",
+        "text": "The registering officer shall enquire whether or not the persons appearing before him are the persons they represent themselves to be, and whether they have the competence to execute or are duly authorised to present the document. He shall satisfy himself regarding the identity of every person before admitting any document to registration.",
+        "keywords": [
+            "identity verification",
+            "registering officer",
+            "enquiry",
+            "competence"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.3,
+        "enforceability_score": 0.88,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 32",
+            "Section 35"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_ra_1908",
+        "doc_type": "statute",
+        "clause_id": "section_78",
+        "clause_title": "Duty of Registrar to Maintain Indexes",
+        "clause_type": "statutory",
+        "text": "The registering officer shall maintain an index of names and an index of properties for every book kept in his office under this Act. The indexes shall be open to inspection by any person, and certified copies of entries therein shall be given to all persons applying for the same.",
+        "keywords": [
+            "index",
+            "public inspection",
+            "certified copies",
+            "registrar duty"
+        ],
+        "risk_level": "low",
+        "risk_score": 0.1,
+        "enforceability_score": 0.85,
+        "court_interpreted": false,
+        "cross_reference_sections": [],
+        "vector_ready": true
+    }
+]

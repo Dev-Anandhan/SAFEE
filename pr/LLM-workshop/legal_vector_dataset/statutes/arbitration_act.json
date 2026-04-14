@@ -1,0 +1,140 @@
+[
+    {
+        "doc_id": "statute_arb_1996",
+        "doc_type": "statute",
+        "jurisdiction": "India",
+        "governing_law": [
+            "Arbitration and Conciliation Act 1996"
+        ],
+        "clause_id": "section_7",
+        "clause_title": "Arbitration Agreement",
+        "clause_type": "definitions",
+        "text": "An arbitration agreement means an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not. An arbitration agreement may be in the form of an arbitration clause in a contract or in the form of a separate agreement.",
+        "keywords": [
+            "arbitration agreement",
+            "dispute resolution",
+            "arbitration clause"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.4,
+        "enforceability_score": 0.93,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 8",
+            "Section 11"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_arb_1996",
+        "doc_type": "statute",
+        "clause_id": "section_8",
+        "clause_title": "Power to Refer Parties to Arbitration",
+        "clause_type": "rights",
+        "text": "A judicial authority before which an action is brought in a matter which is the subject of an arbitration agreement shall, if a party so applies not later than when submitting his first statement on the substance of the dispute, refer the parties to arbitration.",
+        "keywords": [
+            "court referral",
+            "arbitration",
+            "judicial authority",
+            "stay of proceedings"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.5,
+        "enforceability_score": 0.95,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 7",
+            "Section 45"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_arb_1996",
+        "doc_type": "statute",
+        "clause_id": "section_11",
+        "clause_title": "Appointment of Arbitrators",
+        "clause_type": "obligations",
+        "text": "A person of any nationality may be an arbitrator, unless otherwise agreed by the parties. The parties are free to agree on a procedure for appointing the arbitrator or arbitrators. Failing any agreement, in an arbitration with three arbitrators, each party shall appoint one arbitrator, and the two appointed arbitrators shall appoint the third arbitrator who shall act as the presiding arbitrator.",
+        "keywords": [
+            "arbitrator appointment",
+            "presiding arbitrator",
+            "party autonomy"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.4,
+        "enforceability_score": 0.90,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 7",
+            "Section 12"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_arb_1996",
+        "doc_type": "statute",
+        "clause_id": "section_34",
+        "clause_title": "Application for Setting Aside Arbitral Award",
+        "clause_type": "rights",
+        "text": "Recourse to a Court against an arbitral award may be made only by an application for setting aside such award. An arbitral award may be set aside by the Court if the party making the application furnishes proof that the party was under some incapacity, or the arbitration agreement is not valid under the applicable law, or the composition of the arbitral tribunal was not in accordance with the agreement.",
+        "keywords": [
+            "set aside",
+            "arbitral award",
+            "court challenge",
+            "incapacity",
+            "invalid agreement"
+        ],
+        "risk_level": "high",
+        "risk_score": 0.7,
+        "enforceability_score": 0.92,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 36"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_arb_1996",
+        "doc_type": "statute",
+        "clause_id": "section_36",
+        "clause_title": "Enforcement of Arbitral Award",
+        "clause_type": "statutory",
+        "text": "Where the time for making an application to set aside the arbitral award under Section 34 has expired, or such application having been made, it has been refused, the award shall be enforced under the Code of Civil Procedure, 1908, in the same manner as if it were a decree of the Court.",
+        "keywords": [
+            "enforcement",
+            "arbitral award",
+            "decree",
+            "CPC"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.4,
+        "enforceability_score": 0.96,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 34"
+        ],
+        "vector_ready": true
+    },
+    {
+        "doc_id": "statute_arb_1996",
+        "doc_type": "statute",
+        "clause_id": "section_9",
+        "clause_title": "Interim Measures by Court",
+        "clause_type": "rights",
+        "text": "A party may, before or during arbitral proceedings or at any time after the making of the arbitral award but before it is enforced, apply to a Court for an interim measure of protection including: preservation of goods, securing the amount in dispute, detention or preservation of any property, and interim injunction.",
+        "keywords": [
+            "interim measures",
+            "injunction",
+            "court protection",
+            "preservation"
+        ],
+        "risk_level": "medium",
+        "risk_score": 0.5,
+        "enforceability_score": 0.91,
+        "court_interpreted": true,
+        "cross_reference_sections": [
+            "Section 17"
+        ],
+        "vector_ready": true
+    }
+]
